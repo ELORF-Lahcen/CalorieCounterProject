@@ -27,10 +27,10 @@ CalorieCounterProject is a responsive web app that helps users track their daily
 ## 📁 Project Structure
 
    ```plaintext
-   CalorieCounterProject/
-   ├── index.html       # Main HTML file
-   ├── styles.css       # CSS for styling
-   └── script.js        # JavaScript for functionality
+      CalorieCounterProject/
+      ├── index.html       # Main HTML file
+      ├── styles.css       # CSS for styling
+      └── script.js        # JavaScript for functionality
 
 ---
 
