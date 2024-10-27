@@ -1,6 +1,11 @@
 # 📊 CalorieCounterProject
 
+![HTML](https://img.shields.io/badge/HTML-5-orange.svg) ![CSS](https://img.shields.io/badge/CSS-3-blue.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg) ![Responsive](https://img.shields.io/badge/Responsive-Design-green.svg)
+
+
 **[Live Demo 🚀](https://elorf-lahcen.github.io/CalorieCounterProject/)**
+
+---
 
 CalorieCounterProject is a responsive web app that helps users track their daily calorie intake and manage their calorie budget. It allows users to set a daily calorie goal, log meals and exercises, and monitor their calorie balance in real time.
 
